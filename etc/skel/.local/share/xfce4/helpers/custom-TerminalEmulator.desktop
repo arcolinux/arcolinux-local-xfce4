@@ -4,8 +4,8 @@ Version=1.0
 Encoding=UTF-8
 Type=X-XFCE-Helper
 X-XFCE-Category=TerminalEmulator
-X-XFCE-CommandsWithParameter=termite "%s"
-Icon=termite
-Name=termite
-X-XFCE-Commands=termite
+X-XFCE-CommandsWithParameter=urxvt "%s"
+Icon=urxvt
+Name=urxvt
+X-XFCE-Commands=urxvt
 
